@@ -12,7 +12,7 @@ Get to know me be better at my [personal website.](https://prashikmeshram.vercel
 
 ---
 
-## 🧰 My developer toolbox
+<!--## 🧰 My developer toolbox
 
 Some languages, frameworks and tool I'm familiar and  with:
 
@@ -32,7 +32,7 @@ Some languages, frameworks and tool I'm familiar and  with:
 
 <br>
 
-> Be yourself; everyone else is already taken. - *Oscar Wilde*
+> Be yourself; everyone else is already taken. - *Oscar Wilde*-->
 
 ## ✍ My writings
 
@@ -45,7 +45,7 @@ Some languages, frameworks and tool I'm familiar and  with:
 
 ## 💻 I'm currently:
 
-- Building project ([see here](https://brytebook.com))
+- Building project ([see here](https://humming.world))
 - Learning Data Structures and Algorithms
 
 ## Let's connect
