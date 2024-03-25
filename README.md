@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Prashik Meshram
+# Hi there 👋
 
 <p>
   <a href="https://twitter.com/prashikmk">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a computer science student who enjoy working with technology and share with the world what I learn through my [writings](https://prashikmeshram.com/blog).
+I'm Prashik who enjoy working with technology and share with the world what I learn through my [writings](https://prashikmeshram.com/blog).
 
 Get to know me be better at my [personal website.](https://prashikmeshram.com)
 
