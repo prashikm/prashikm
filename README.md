@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Prashik Meshram
 
-<!--<p>
+<p>
   <a href="https://twitter.com/prashikmk">
     <img src="https://img.shields.io/badge/@prashikmk-1DA1F2?logo=Twitter&logoColor=white&style=flat" alt="Twitter" />
   </a>
 </p>
 
-I'm a computer science student who enjoy working with technology and share with the world what I learn through my [writings](https://prashikmeshram.vercel.app/blog).
+I'm a computer science student who enjoy working with technology and share with the world what I learn through my [writings](https://prashikmeshram.com/blog).
 
-Get to know me be better at my [personal website.](https://prashikmeshram.vercel.app)
+Get to know me be better at my [personal website.](https://prashikmeshram.com)
 
 ---
 
@@ -16,8 +16,8 @@ Get to know me be better at my [personal website.](https://prashikmeshram.vercel
 
 ## ✍ My writings
 
-- [Some Common Pitfalls You Should Avoid As Programmer](https://prashikmeshram.vercel.app/posts/common-pitfall-to-avoid)
-- [How To Write Better Git Commit Messages](https://prashikmeshram.vercel.app/posts/how-to-write-better-git-commit-messages)
+- [Some Common Pitfalls You Should Avoid As Programmer](https://prashikmeshram.com/blog/some-common-pitfalls-you-should-avoid-as-programmer)
+- [How To Write Better Git Commit Messages](https://prashikmeshram.com/blog/how-to-write-better-git-commit-messages)
 
 [More posts](https://prashikmeshram.vercel.app/blog)
 
@@ -25,14 +25,11 @@ Get to know me be better at my [personal website.](https://prashikmeshram.vercel
 
 ## 💻 I'm currently:
 
-- Building project ([see here](https://humming.world))
-- Learning Data Structures and Algorithms
+- Building project ([see here](https://prashikmeshram.com/projects))
 
 ## Let's connect
 
 Here is my [Twitter](https://twitter.com/prashikmk) account, fell free to send a message :)
-
--->
 
 <!--
 **prashikm/prashikm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
