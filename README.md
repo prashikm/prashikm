@@ -23,11 +23,11 @@ Get to know me be better at my [personal website.](https://prashikmeshram.com)
 
 <br>
 
-## 💻 I'm currently:
+<!--  ## 💻 I'm currently:
 
 - Building project ([see here](https://prashikmeshram.com/projects))
 
-<!-- ## Let's connect
+## Let's connect
 
 Here is my [Twitter](https://twitter.com/prashikmk) account, fell free to send a message :)
 
