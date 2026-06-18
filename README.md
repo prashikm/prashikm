@@ -1,27 +1,9 @@
-# Hi there 👋
-
-<p>
-  <a href="https://twitter.com/prashikmk">
-    <img src="https://img.shields.io/badge/@prashikmk-1DA1F2?logo=Twitter&logoColor=white&style=flat" alt="Twitter" />
-  </a>
-</p>
-
-I'm Prashik who enjoy working with technology and share with the world what I learn through my [writings](https://prashikmeshram.com/blog).
-
-Get to know me be better at my [personal website.](https://prashikmeshram.com)
-
----
-
-> Be yourself; everyone else is already taken. - *Oscar Wilde*
-
-## ✍ My writings
-
-- [Some Common Pitfalls You Should Avoid As Programmer](https://prashikmeshram.com/blog/some-common-pitfalls-you-should-avoid-as-programmer)
-- [How To Write Better Git Commit Messages](https://prashikmeshram.com/blog/how-to-write-better-git-commit-messages)
-
-[More posts](https://prashikmeshram.vercel.app/blog)
-
-<br>
+- Hi there 👋 I'm, Prashik
+- 🤖 I'm interested in backend, AI and scaling
+- 🤝 I'm always ready to colloborate
+- 🎙️ Recently was building [MyAudioJournal](https://www.myaudiojournal.com/)
+- ✍️ My past writings on [blog](https://prashikmeshram.com/blog)
+- 📫 Reach out to me through [twitter](https://twitter.com/prashikmk)
 
 <!--  ## 💻 I'm currently:
 
