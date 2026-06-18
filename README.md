@@ -1,7 +1,7 @@
 - Hi there 👋 I'm, Prashik
 - 🤖 I'm interested in backend, AI and scaling
 - 🤝 I'm always ready to colloborate
-- 🎙️ Recently was building [MyAudioJournal](https://www.myaudiojournal.com/)
+- 🎙️ I recently built [MyAudioJournal](https://www.myaudiojournal.com/)
 - ✍️ My past writings on [blog](https://prashikmeshram.com/blog)
 - 📫 Reach out to me through [twitter](https://twitter.com/prashikmk)
 
