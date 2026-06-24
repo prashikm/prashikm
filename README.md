@@ -1,4 +1,4 @@
-- Hi there 👋 I'm, Prashik
+- 👋 Hi, I'm Prashik
 - 🤖 I'm interested in backend, AI and scaling
 - 🤝 I'm always ready to colloborate
 - 🎙️ I recently built [MyAudioJournal](https://www.myaudiojournal.com/)
